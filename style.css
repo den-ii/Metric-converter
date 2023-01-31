@@ -24,6 +24,9 @@ h2{
   font-weight: 800;
 font-size: 28px;
 }
+button{
+  cursor: pointer;
+}
 #num {
   font-size: 5.8rem;
   font-weight: 800;
